@@ -14,7 +14,7 @@ I'm SOC L1 analytic and Cybersecurity enthusiast currently trying to improve and
   <img src="https://profile-counter.glitch.me/tPapy/count.svg" />
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tPapy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/padrta-tomas//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.papy.cz)  <img src="https://tryhackme-badges.s3.amazonaws.com/Sir.Papy.png" alt="TryHackMe"> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tPapy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/padrta-tomas//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.papy.cz)  <img src="https://tryhackme-badges.s3.amazonaws.com/Sir.Papy.png" alt="TryHackMe"> 
 </div>
 
 
