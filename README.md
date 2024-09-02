@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Papy
+
+I'm SOC L1 analytic and Cybersecurity enthusiast currently trying to improve and deeper my knowledge both of blue team and red team.
+
+**Skills**: Incident response · Threat Intelligence · Digital Forensics · Security Information and Event Monitoring · MITRE ATT&CK · Little bit of pentesting
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z0d2JleG15dzhpcWNmZGU1OWg0dnJzNzNzYm1mejk0NWFyYzVtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0EgRbCAP31LDkY2mgo/giphy.webp" width="1280"/>
 </div>
-I'm SOC L1 analytic and **Cybersecurity enthusiast** currently trying to improve and deeper my knowledge both of blue team and red team.
-
-**Skills**: Incident response · Threat Intelligence · Digital Forensics · Security Information and Event Monitoring · MITRE ATT&CK · Little bit of pentesting
-
 
 
 <p align="center"> 
